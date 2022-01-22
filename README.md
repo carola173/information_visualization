@@ -4,7 +4,7 @@ Collection of dataset and links that can be used to create a cohesive visualizat
 Collection of dataset and links that can be used to create a cohesive visualization for the module CS5346
 
 1. It is a dataset bank that contains multiple datasets along with a few sample visualization examples:https://data.fivethirtyeight.com/
-2. https://data.nasa.gov/data_visualizations.html - Contains dataset for earth science, atmosphere, cloud surface area related domains. 
+2. Domain based dataset related to earth science, atmosphere, cloud surface area related domainshttps://data.nasa.gov/data_visualizations.html 
 3. Google Trends: https://trends.google.com/trends/explore
 4. Global fundamental dataset for the banking & financial domain https://data.nasdaq.com/search?query=KAUFFMAN
 5. FBI Fireman background check dataset:https://github.com/BuzzFeedNews/nics-firearm-background-checks
