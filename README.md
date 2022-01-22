@@ -1,8 +1,7 @@
-# information_visualization
-Collection of dataset and links that can be used to create a cohesive visualization for the module CS5346
-# information_visualization
+# Information visualization
 Collection of dataset and links that can be used to create a cohesive visualization for the module CS5346
 
+# Dataset 
 1. It is a dataset bank that contains multiple datasets along with a few sample visualization examples:https://data.fivethirtyeight.com/
 2. Domain based dataset related to earth science, atmosphere, cloud surface area related domains: https://data.nasa.gov/data_visualizations.html 
 3.  Spotify Play Count for Billboard's 1990 Top 100 https://www.kaggle.com/zacharykauz/spotify-play-count-for-billboards-1990-top-100, https://www.kaggle.com/yasserh/song-popularity-dataset, https://www.kaggle.com/nenamalikah/nft-collections-by-sales-volume, https://www.kaggle.com/ahemateja19bec1025/musicgenerationdataset, https://www.kaggle.com/ektanegi/spotifydata-19212020, One of the ideas is the collect all the historical dataset and generate a most viewed, depict the evolution of music over decades, etc. to generate a web publishable dashboard for how Billboard’s Top Hits Changed over decades [for all the music lovers!]
