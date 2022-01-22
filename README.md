@@ -41,6 +41,11 @@ Collection of dataset and links that can be used to create a cohesive visualizat
 37. Forest Fire dataset: https://www.kaggle.com/balavashan/forest-fire-dataset
 38. Singapore Transport dataset: https://datamall.lta.gov.sg/content/datamall/en.html - It has both static eg Annual Bus Population By Passenger Capacity, etc and dynamic dataset eg Bus Routes, etc
 39. E-Commerce related dataset:  https://imerit.net/blog/25-best-retail-sales-and-ecommerce-datasets-for-machine-learning-all-pbm/
+40. Singapore Government who aim to deliver insightful statistics and trusted statistical services that empower decision making: https://www.tablebuilder.singstat.gov.sg/publicfacing/selectVariables.action [cleaned dataset for use https://docs.google.com/spreadsheets/d/1a2uZKydzbP-vTdrXrdcGmfxTFnZSXdDS65XOpjWY0SE/edit#gid=1367742117]
+41. Police Department Incident Reports from 2018 to Present:https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783
+42. COVID-19 World vaccination status progress: https://www.kaggle.com/gpreda/covid-world-vaccination-progress
+43. UCS Satellite Dataset: https://www.ucsusa.org/resources/satellite-database [Independent science to solve our planet's most pressing problems checkout the sample visualization created by Union of Concerned Scientists at https://www.ucsusa.org/]
+44. E-commerce dataset https://data.world/promptcloud/fashion-products-on-amazon-com [amazon fashion product dataset], https://www.kaggle.com/c/shopee-product-detection-open [Shopee product dataset] etc where one can try creating a visualization dashboard which can show/predict/generate/suggest from which e-commerce site to buy a relevant product from [Domain: Search Relevance E-commerce application]
 
 # Resouces 
 1. Basic web scraping: https://www.thepythoncode.com/article/extract-weather-data-python
