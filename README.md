@@ -44,5 +44,6 @@ Collection of dataset and links that can be used to create a cohesive visualizat
 
 Resouces that can aid in developing a web-deployable dashboard:
 1. Basic web scraping: https://www.thepythoncode.com/article/extract-weather-data-python
-2. Go-to links to understand how to generate web-deployable dashboard: https://towardsdatascience.com/deploying-data-dashboards-automatically-reliably-and-securely-372ef802ca3c,https://topflightapps.com/ideas/how-to-create-a-dashboard-web-application/,https://topflightapps.com/ideas/how-to-create-a-dashboard-web-application/, https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/, https://help.tableau.com/current/server/en-us/web_author.htm [ Specifically if someone is using tableau],
+2. Go-to links to understand how to generate web-deployable dashboard: https://towardsdatascience.com/deploying-data-dashboards-automatically-reliably-and-securely-372ef802ca3c,https://topflightapps.com/ideas/how-to-create-a-dashboard-web-application/,https://topflightapps.com/ideas/how-to-create-a-dashboard-web-application/, https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/, https://help.tableau.com/current/server/en-us/web_author.htm [ Specifically if someone is using tableau], https://powerbi.microsoft.com/en-us/publishtoweb/ [PowerBI]
+3. 
 
